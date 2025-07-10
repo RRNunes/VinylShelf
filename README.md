@@ -1,18 +1,45 @@
-# Salesforce DX Project: Next Steps
+# Vinyl Shelf - Loja de Discos Salesforce 🚧
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+![Apex](https://img.shields.io/badge/Apex-Developer-blue)
+![LWC](https://img.shields.io/badge/LWC-Lightning_Web_Components-blueviolet)
+![Salesforce CLI](https://img.shields.io/badge/CLI-Salesforce-orange)
+![Flow](https://img.shields.io/badge/Flow-Automation-green)
+![API](https://img.shields.io/badge/API-REST-lightgrey)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
 
-## How Do You Plan to Deploy Your Changes?
+---
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Resumo do Projeto
 
-## Configure Your Salesforce DX Project
+Este projeto simula uma **Loja de Discos** na plataforma Salesforce, permitindo que clientes:
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+- Visualizem um catálogo de discos disponíveis  
+- Adicionem produtos ao carrinho  
+- Finalizem o pedido preenchendo um formulário com dados e CEP  
+- Tenham o endereço preenchido automaticamente via API do ViaCEP  
+- Registrem o pedido no Salesforce com os itens escolhidos  
+- Atualizem automaticamente o estoque dos discos após a compra  
 
-## Read All About It
+A solução utiliza **Apex**, **Lightning Web Components (LWC)**, **Flow**, **integração com API externa**, e **Salesforce CLI com GitHub** para versionamento e deploy.
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+---
+
+## Tecnologias Utilizadas
+
+-  Apex (Classes Controller e lógica de negócios)
+-  LWC (interface para catálogo e formulário)
+-  Flow (atualização automática de estoque)
+-  Integração com API externa ViaCEP
+-  Salesforce Developer Org
+-  Salesforce CLI + GitHub
+
+---
+
+## Demonstração Visual
+
+🚧 Em breve: imagens da aplicação rodando no Salesforce (catalogo, formulário, pedido criado). 🚧
+
+---
+
+>  🚧 Projeto em desenvolvimento — Sugestões são bem-vindas!🚧
+
