@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <!--Objetos Customizados-->
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+
+    <!--Classes Apex-->
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+
+    <!--Componentes Lightning-->
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+    <!--Flows-->
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+
+    <!--Layouts-->
+    <types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>
+
+    <!--Permissões-->
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+
+    <!-- Objetos personalizados meta-->
+    <types>
+        <members>*</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>WorkflowRule</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Trigger</name>
+    </types>
+
+    <!--Versão da API-->
+    <version>60.0</version>
+
+</Package>
