@@ -36,6 +36,7 @@ Este projeto simula uma **Loja de Discos** na plataforma Salesforce, permitindo 
 -  Salesforce CLI + GitHub
 
 ---
+<!-- Objetos personalizados foram usados para fins educacionais, mesmo que existam equivalentes standard.  -->
 
 ## Demonstração Visual
 
