@@ -1,4 +1,6 @@
 # Vinyl Shelf - Loja de Discos Salesforce 🚧
+![projeto4](https://github.com/user-attachments/assets/6269bfdc-692c-4999-9c68-913cdae79790)
+
 
 ![Apex](https://img.shields.io/badge/Apex-Developer-blue)
 ![LWC](https://img.shields.io/badge/LWC-Lightning_Web_Components-blueviolet)
