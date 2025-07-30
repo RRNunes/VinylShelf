@@ -10,7 +10,7 @@
 
 ![projeto4](https://github.com/user-attachments/assets/6269bfdc-692c-4999-9c68-913cdae79790)
 
----
+
 
 ## Resumo do Projeto
 
@@ -24,7 +24,7 @@ Este projeto simula uma **Loja de Discos** na plataforma Salesforce, permitindo 
 - Atualizem automaticamente o estoque dos discos após a compra  
 
 
----
+
 
 ## Tecnologias Utilizadas
 
@@ -35,14 +35,14 @@ Este projeto simula uma **Loja de Discos** na plataforma Salesforce, permitindo 
 -  Salesforce Developer Org
 -  Salesforce CLI + GitHub
 
----
+
 <!-- Objetos personalizados foram usados para fins educacionais, mesmo que existam equivalentes standard.  -->
 
 ## Demonstração Visual
 
 🚧 Em breve: imagens da aplicação rodando no Salesforce (catalogo, formulário, pedido criado). 🚧
 
----
+
 
 >  🚧 Projeto em desenvolvimento — Sugestões são bem-vindas!🚧
 
